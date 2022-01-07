@@ -1,0 +1,28 @@
+{
+  "name": "roulette-game-sol-quest2",
+  "version": "1.0.0",
+  "description": "Roulette game in solana quest 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamboliasir1/roulette-game-sol-quest2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamboliasir1/roulette-game-sol-quest2/issues"
+  },
+  "homepage": "https://github.com/tamboliasir1/roulette-game-sol-quest2#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.30.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  }
+}
